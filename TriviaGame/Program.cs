@@ -12,7 +12,8 @@ namespace TriviaGame
         static void Main(string[] args)
         {
             //Trivia game function goes here
-
+            GetTriviaList();
+            Console.ReadKey();
         }
 
 
@@ -28,7 +29,12 @@ namespace TriviaGame
             List<Trivia> returnList = new List<Trivia>();
             // TODO: go through each line in contents of the trivia file and make a trivia object.
             //       add it to our return list.
-            
+            foreach (string a in contents)
+            {
+                Trivia triviaTest = new Trivia(a);
+                Console.WriteLine("question: " + triviaTest.question);
+                Console.WriteLine("answer: " + triviaTest.answer);
+            }
             //Return the full list of trivia questions
             return returnList;
         }
