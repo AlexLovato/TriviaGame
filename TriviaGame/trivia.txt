@@ -4180,7 +4180,7 @@ Ad Slogans: we do chicken right*kfc
 Ad Slogans: zoom zoom zoom*mazda
 Ad Slogans: the brisk tea*lipton
 Alcohol: this liquor brand accents a scarlet o hara or a rhett butler*southern comfort
-Alcohol: the two ingredients of a black velvet are stout and *champagne
+Alcohol: the two ingredients of a black velvet are stout and*champagne
 Alcohol: what color is a remy martin bottle*green
 Alcohol: sapporo is brewed in this country.*japan
 Alcohol: what bottles of chianti are traditionally covered with*straw
